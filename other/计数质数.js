@@ -21,3 +21,4 @@ var countPrimes=function(n){
     }
     return ans
 }
+// 10 => 4
